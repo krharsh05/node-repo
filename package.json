@@ -18,6 +18,6 @@
   "homepage": "https://github.com/krharsh05/node-repo#readme",
   "dependencies": {
     "mongoose": "^5.9.26",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   }
 }
